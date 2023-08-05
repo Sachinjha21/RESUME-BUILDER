@@ -1,4 +1,4 @@
-# RESUME-BUILDER
+# REZUME-BUILDER
 
 
 <p align="center">
